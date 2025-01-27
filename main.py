@@ -1,3 +1,3 @@
 print("This is the new branch B")
-print("New add from main branch C")
+print("New add from main branch")
 print("Here is branch X")
